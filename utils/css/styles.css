@@ -1,0 +1,16 @@
+.dsc-title-primary {
+  font-size: 1.75rem;
+  color: rgb(25, 25, 218);
+}
+
+.dsc-title-secondary {
+  font-size: 1.75rem;
+  color: rgba(219, 84, 5, 0.658);
+}
+
+.dsc-title-dark {
+  font-size: 1.75rem;
+  color: black;
+}
+
+/*# sourceMappingURL=styles.css.map */

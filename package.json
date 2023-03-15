@@ -1,0 +1,11 @@
+{
+  "name": "sass2_course",
+  "version": "0.0.1",
+  "description": "curso de sass",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass --watch ./utils/scss/styles.scss ./utils/css/styles.css"
+  },
+  "author": "Erland Ruiz",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+$primary : rgb(25, 25, 218);
+$secondary: rgba(219, 84, 5, 0.658);
+$dark: #000;
+$dark_opacity: rgba($dark, 1);
+$font-size: 1.75rem;
+$brand: "dsc";
+
+.#{$brand}-title-primary{
+    font-size: $font-size;
+    color: $primary;
+}
+
+.#{$brand}-title-secondary{
+    font-size: $font-size;
+    color: $secondary;
+}
+.#{$brand}-title-dark{
+    font-size: $font-size;
+    color: $dark_opacity;
+}
